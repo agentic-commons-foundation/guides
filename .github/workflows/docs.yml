@@ -19,7 +19,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Install mkdocs-material
-        run: pip install mkdocs-material
+      - name: Install mkdocs-material + plugins
+        run: pip install mkdocs-material mkdocs-git-revision-date-localized-plugin
       - name: Build and deploy
         run: mkdocs gh-deploy --force --no-history
