@@ -54,7 +54,7 @@ The full one-paragraph version is in [`spec/INTRODUCTION.md`](https://github.com
 
 ## §3 What this is not
 
-Funders comparing this to other AI projects routinely ask the following. Each answer is short here.
+Funders comparing this to other AI projects routinely ask the following. Each answer is short here; fuller answers are at [What Agentic Commons is not](https://agentic-commons.org/faq).
 
 | Question | Short answer |
 |----------|-------------|
