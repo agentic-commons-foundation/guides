@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+  <!-- Geometry derived from user spec: 245.6×245.6 square, rx=40, both glyphs height=105, -->
+  <!-- pacman mouth=90°, pacman left x=137, triangle right vertex x=145.                  -->
+  <!-- Scale factor to this 200×200 mark area: 200/245.6 = 0.8143                         -->
+  <!-- Triangle + pacman shifted left by net 3 units for visual balance.                  -->
+
+  <!-- rounded square background (sage.600) -->
+  <rect x="20" y="20" width="200" height="200" rx="32.57" ry="32.57" fill="#3d7156"/>
+
+  <!-- triangle "A" (cream) -->
+  <polygon points="85.71,77.24 36.35,162.75 135.07,162.75" fill="#fbf8f3"/>
+
+  <!-- pac-man "C" (cream) — center (171.31, 120), r=42.75, 90° mouth opens right -->
+  <path d="M 201.54 150.23 A 42.75 42.75 0 1 1 201.54 89.77 L 171.31 120 Z" fill="#fbf8f3"/>
+</svg>
