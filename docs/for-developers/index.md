@@ -9,10 +9,10 @@ You are building something on top of Agentic Commons — a custom SDK, a dashboa
 ## Reference
 
 - [`@agentic-commons-foundation/spec`](https://github.com/agentic-commons-foundation/spec) — protocol specification (CC0).
-- [`@agentic-commons-foundation/sdk-python`](https://github.com/agentic-commons-foundation/sdk-python) — Python SDK source.
-- [`@agentic-commons-foundation/sdk-typescript`](https://github.com/agentic-commons-foundation/sdk-typescript) — TypeScript SDK source.
-- [`@agentic-commons-foundation/cli`](https://github.com/agentic-commons-foundation/cli) — `acg` CLI source.
-- [`@agentic-commons-foundation/marker-validator`](https://github.com/agentic-commons-foundation/marker-validator) — GitHub Action source.
+- `@agentic-commons-foundation/sdk-python` — Python SDK source *(coming soon)*.
+- `@agentic-commons-foundation/sdk-typescript` — TypeScript SDK source *(coming soon)*.
+- `@agentic-commons-foundation/cli` — `acg` CLI source *(coming soon)*.
+- `@agentic-commons-foundation/marker-validator` — GitHub Action source *(coming soon)*.
 
 ## Coming around public launch
 

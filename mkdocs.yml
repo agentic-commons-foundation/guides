@@ -56,12 +56,10 @@ extra:
       link: https://twitter.com/AgenticCommons
     - icon: fontawesome/solid/envelope
       link: mailto:hello@agentic-commons.org
-  # Analytics: Plausible to be configured via theme override (overrides/partials/integrations/analytics/plausible.html)
-  # before public launch; mkdocs-material does not bundle a Plausible provider template.
-  # analytics:
-  #   provider: plausible
-  #   domain: guides.agentic-commons.org
-  #   src: https://plausible.io/js/script.js
+  analytics:
+    provider: plausible
+    domain: guides.agentic-commons.org
+    src: https://plausible.io/js/script.js
 
 markdown_extensions:
   - admonition

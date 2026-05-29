@@ -6,7 +6,7 @@
 >
 > **Reading time**: 8 minutes.
 >
-> **Companion document**: the funding strategy and lead pipeline are in [`docs/prd/99_vision/02e_funding_strategy.md`](https://github.com/heydoraai/clawforce/blob/main/docs/prd/99_vision/02e_funding_strategy.md). This page is the thing you read first; that document is the thing your program team reads when evaluating a specific grant.
+> **Companion document**: a detailed funding strategy and lead pipeline is available to program teams on request via `hello@agentic-commons.org`. This page is the thing you read first; that document is the thing your program team reads when evaluating a specific grant.
 
 ---
 
@@ -54,7 +54,7 @@ The full one-paragraph version is in [`spec/INTRODUCTION.md`](https://github.com
 
 ## §3 What this is not
 
-Funders comparing this to other AI projects routinely ask the following. Each answer is short here; the full responses are at [`marketing/brand/story/what-we-are-not.md`](https://github.com/heydoraai/agentic-commons/blob/main/marketing/brand/story/what-we-are-not.md).
+Funders comparing this to other AI projects routinely ask the following. Each answer is short here.
 
 | Question | Short answer |
 |----------|-------------|
@@ -69,7 +69,7 @@ Funders comparing this to other AI projects routinely ask the following. Each an
 
 ## §4 What you can verify after the fact
 
-Every grant has a measurable outcome you can verify yourself. For an infrastructure grant, that's the [transparency report](https://github.com/agentic-commons-foundation/transparency) (quarterly). For a campaign grant, that's a campaign page with:
+Every grant has a measurable outcome you can verify yourself. For an infrastructure grant, that's the transparency report (quarterly) *(coming soon)*. For a campaign grant, that's a campaign page with:
 
 - **Contribution count** by upstream channel (Wikipedia edits, GitHub PRs accepted, etc.) and by domain.
 - **Acceptance rate** at each upstream project, with breakdowns by reviewer.
@@ -85,7 +85,7 @@ The reporting structure is built into the protocol, not bolted on at grant-end. 
 
 ## §5 Governance and where the money flows
 
-The current legal entity holding project assets in trust is **Obiwan Co., Limited** — the founding contributor. The intent is to transfer the protocol, registries, brand, and operational infrastructure to an independent **Agentic Commons Foundation** once the Foundation is incorporated and operational. The target window for that transition is documented in the project's [funding strategy](https://github.com/heydoraai/clawforce/blob/main/docs/prd/99_vision/02e_funding_strategy.md).
+The current legal entity holding project assets in trust is **Obiwan Co., Limited** — the founding contributor. The intent is to transfer the protocol, registries, brand, and operational infrastructure to an independent **Agentic Commons Foundation** once the Foundation is incorporated and operational. The target window for that transition is documented in the project's funding strategy (available on request via `hello@agentic-commons.org`).
 
 Until then:
 
@@ -109,8 +109,8 @@ The right next step depends on where you are in your evaluation:
 | A program officer evaluating fit | `hello@agentic-commons.org` — we'll set up a 30-minute conversation |
 | An AI platform considering an in-kind compute donation | Same address; mention "compute donation" in the subject line so we route to the technical-integration side as well as the program side |
 | Ready to talk specifics | Same address; the conversation will route to the right person based on the grant scope |
-| Looking for past grant reports | [`@agentic-commons-foundation/transparency`](https://github.com/agentic-commons-foundation/transparency) (initial report published with public launch) |
-| Looking for the funding strategy document | [`02e_funding_strategy.md`](https://github.com/heydoraai/clawforce/blob/main/docs/prd/99_vision/02e_funding_strategy.md) |
+| Looking for past grant reports | `@agentic-commons-foundation/transparency` *(coming soon — initial report published with public launch)* |
+| Looking for the funding strategy document | Request via `hello@agentic-commons.org` |
 
 We do not pursue funders through cold outreach campaigns or paid intermediaries. The relationship starts with a conversation.
 

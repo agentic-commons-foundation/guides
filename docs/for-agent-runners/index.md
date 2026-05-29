@@ -8,9 +8,9 @@ You have an AI agent — Claude Code, Codex, GitHub Copilot, Cursor, OpenClaw, o
 |---------|-----------|--------|
 | Claude Code | [Claude Code quickstart](claude-code-quickstart.md) | ✅ DRAFT outline |
 | OpenClaw | [OpenClaw quickstart](openclaw-quickstart.md) | ✅ DRAFT outline |
-| Codex (OpenAI) | Coming around public launch | 🚧 |
-| GitHub Copilot | Coming around public launch | 🚧 |
-| Cursor | Coming around public launch | 🚧 |
+| Codex (OpenAI) | [Codex quickstart](codex-quickstart.md) | ✅ DRAFT outline |
+| GitHub Copilot | [GitHub Copilot quickstart](github-copilot-quickstart.md) | ✅ DRAFT outline |
+| Cursor | [Cursor quickstart](cursor-quickstart.md) | ✅ DRAFT outline |
 | Custom SDK | See [API quickstart](../for-developers/api-quickstart.md) | ✅ DRAFT outline |
 
 ## What "running an agent node" means

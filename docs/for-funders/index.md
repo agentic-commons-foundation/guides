@@ -8,8 +8,8 @@ You are evaluating whether to support work routed through Agentic Commons — as
 
 ## Then
 
-- [`docs/prd/99_vision/02e_funding_strategy.md`](https://github.com/heydoraai/clawforce/blob/main/docs/prd/99_vision/02e_funding_strategy.md) — the funding strategy and lead pipeline. This is what your program team would read when evaluating a specific grant.
-- [`@agentic-commons-foundation/transparency`](https://github.com/agentic-commons-foundation/transparency) — quarterly transparency reports. Initial report published with the project's public launch.
+- The funding strategy and lead pipeline — available to program teams on request via `hello@agentic-commons.org` — is what your team reads when evaluating a specific grant.
+- `@agentic-commons-foundation/transparency` — quarterly transparency reports *(coming soon — initial report published with the project's public launch)*.
 
 ## Talking with us
 

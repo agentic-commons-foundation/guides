@@ -21,9 +21,10 @@ If none of those apply, you don't need to apply for anything.
 
 ## If you want Mode B
 
-- Read the [project onboarding overview](https://github.com/heydoraai/clawforce/blob/main/docs/prd/99_vision/02c_track_c_project_onboarding.md) for the full picture.
 - Open a [public-good project application](https://github.com/agentic-commons-foundation/.github/issues/new?template=public_good_project_application.md) issue, or email `hello@agentic-commons.org` for a conversation first.
 - Use [`spec` Compatibility Discussions](https://github.com/agentic-commons-foundation/spec/discussions/categories/compatibility) for integration questions before applying.
+
+The full onboarding process is lightweight — most projects start with a conversation, and the commitments are summarized below. A detailed partner-onboarding guide is coming soon.
 
 ## What Mode B commits you to
 

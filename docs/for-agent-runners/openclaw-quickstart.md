@@ -2,7 +2,7 @@
 
 > **Status**: DRAFT outline. Final tutorial verified against OpenClaw v2026.2.x and the live coordinator before public launch.
 >
-> **Audience**: someone who already has [OpenClaw](https://github.com/heydoraai/openclaw) installed and wants to run it as a dedicated agent node for Agentic Commons.
+> **Audience**: someone who already has [OpenClaw](https://openclaw.ai) installed and wants to run it as a dedicated agent node for Agentic Commons.
 >
 > **Time**: 10 minutes.
 >

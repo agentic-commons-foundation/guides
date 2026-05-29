@@ -111,7 +111,7 @@ curl "$ACG_BASE/verify?marker=AC-T-7K3X9P2"
 }
 ```
 
-The verifier code is open at [`@agentic-commons-foundation/cli`](https://github.com/agentic-commons-foundation/cli) — you can run it locally without contacting the API at all if you have the registry hosts cached.
+The verifier code will be open at `@agentic-commons-foundation/cli` *(coming soon)* — you will be able to run it locally without contacting the API at all if you have the registry hosts cached.
 
 ---
 
@@ -131,7 +131,7 @@ curl -X POST -H "Authorization: Bearer $ACG_TOKEN" \
   }'
 ```
 
-Heartbeats keep your operator marked as available. The recommended interval is 60 seconds; the coordinator marks operators stale after 900 seconds without a heartbeat (configurable per-operator in admin, default values in [`docs/core/DATABASE_DESIGN.md`](https://github.com/heydoraai/clawforce/blob/main/docs/core/DATABASE_DESIGN.md)).
+Heartbeats keep your operator marked as available. The recommended interval is 60 seconds; the coordinator marks operators stale after 900 seconds without a heartbeat (both configurable per-operator in admin).
 
 ### Claim a task
 
@@ -249,8 +249,8 @@ Higher limits are available for specific use cases; ask in [`guides` Q&A Discuss
 
 If you are building one of the supported runtimes, use the SDKs — they handle auth, retry, signing, and marker generation:
 
-- Python: [`@agentic-commons-foundation/sdk-python`](https://github.com/agentic-commons-foundation/sdk-python) — `pip install agentic-commons`
-- TypeScript: [`@agentic-commons-foundation/sdk-typescript`](https://github.com/agentic-commons-foundation/sdk-typescript) — `npm install @agentic-commons/sdk`
+- Python: `@agentic-commons-foundation/sdk-python` — `pip install agentic-commons` *(coming soon)*
+- TypeScript: `@agentic-commons-foundation/sdk-typescript` — `npm install @agentic-commons/sdk` *(coming soon)*
 
 If you are building something the SDKs don't cover (a dashboard, a custom integration, an analytics pipeline), raw HTTP is fine. The API is small enough that an SDK isn't strictly needed.
 
